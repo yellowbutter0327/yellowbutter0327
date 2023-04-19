@@ -2,7 +2,6 @@
 ✨ 교육학을 전공했지만 교실 밖을 넘어 많은 사람에게 영향력을 미치고 싶어 개발 공부를 하고 있어요.
 
 
-
 ### 💻 Tech Skills
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
