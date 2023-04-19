@@ -2,6 +2,7 @@
 ✨ 교육학을 전공했지만 교실 밖을 넘어 많은 사람에게 영향력을 미치고 싶어 개발 공부를 하고 있어요.
 
 
+
 ### 💻 Tech Skills
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -13,11 +14,13 @@
 ![Next](https://img.shields.io/badge/NextJS-000000?style=flat&logo=nextdotjs&logoColor=white)
 
 
+
 ###  Tools 
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+
 
 
 ### Social
